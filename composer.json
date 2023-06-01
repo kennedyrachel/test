@@ -1,0 +1,9 @@
+{
+    "name": "pnp/test1",
+    "description": "My first test package :)",
+    "require": {},
+    "scripts": {
+        "pre-install-cmd": "Your\\Namespace\\ScriptClass::methodName"
+    }
+    
+}
